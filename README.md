@@ -20,6 +20,12 @@
 </p>
 
 
-[![hatappo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatappo&count_private=true&custom_title=hatappo%27s%20GitHub%20Stats&theme=tokyonight)](https://github.com/hatappo/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatappo&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/hatappo/)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hatappo&theme=tokyonight&repo=vscode-extension-vibe-notes)](https://marketplace.visualstudio.com/items?itemName=hatappo.vibe-notes)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hatappo&theme=tokyonight&repo=agent-slash-sync)](https://www.npmjs.com/package/agent-slash-sync)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hatappo&theme=tokyonight&repo=chrome-extension-ip-converter)](https://chromewebstore.google.com/detail/binary-network-visualizer/bhehhdghcijifljkehlhedghalifkige)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hatappo&theme=tokyonight&repo=zendesk-pii-detector-ja)](https://github.com/hatappo/zendesk-pii-detector-ja)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatappo&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/hatappo/)
+[![hatappo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatappo&theme=tokyonight&count_private=true&custom_title=hatappo%27s%20GitHub%20Stats)](https://github.com/hatappo/)
