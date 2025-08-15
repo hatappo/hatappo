@@ -20,4 +20,6 @@
 </p>
 
 
+[![hatappo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatappo&count_private=true&custom_title=hatappo%27s%20GitHub%20Stats&theme=tokyonight)](https://github.com/hatappo/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatappo&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/hatappo/)
 
