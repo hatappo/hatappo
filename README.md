@@ -14,7 +14,7 @@
   <a href="https://zenn.dev/hatappo/articles">
     <img height="20" src="https://zenn-badge.nikaera.com/s/hatappo/articles?style=flat" />
   </a>
-  <//qiita.com/hatappo">
+  <a href="https://qiita.com/hatappo">
     <img height="20" src="https://qiita-badge.apiapi.app/s/hatappo/contributions.svg" />
   </a>
 </p>
