@@ -23,7 +23,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hatappo&theme=tokyonight&repo=moody)](https://moody.odoru.dev/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hatappo&theme=tokyonight&repo=vscode-extension-vibe-notes)](https://marketplace.visualstudio.com/items?itemName=hatappo.vibe-notes)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hatappo&theme=tokyonight&repo=agent-slash-sync)](https://www.npmjs.com/package/agent-slash-sync)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hatappo&theme=tokyonight&repo=agent-command-sync)](https://github.com/hatappo/agent-command-sync)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hatappo&theme=tokyonight&repo=chrome-extension-ip-converter)](https://chromewebstore.google.com/detail/binary-network-visualizer/bhehhdghcijifljkehlhedghalifkige)
 
 
