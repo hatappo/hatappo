@@ -19,13 +19,22 @@
   </a>
 </p>
 
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hatappo&theme=tokyonight&repo=moody)](https://moody.odoru.dev/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hatappo&theme=tokyonight&repo=vscode-extension-vibe-notes)](https://marketplace.visualstudio.com/items?itemName=hatappo.vibe-notes)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hatappo&theme=tokyonight&repo=agent-command-sync)](https://github.com/hatappo/agent-command-sync)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hatappo&theme=tokyonight&repo=chrome-extension-ip-converter)](https://chromewebstore.google.com/detail/binary-network-visualizer/bhehhdghcijifljkehlhedghalifkige)
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatappo&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/hatappo/)
 [![hatappo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatappo&theme=tokyonight&count_private=true&custom_title=hatappo%27s%20GitHub%20Stats)](https://github.com/hatappo/)
+-->
+
+
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics" width="400">
+</picture>
+
+<!--
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
+-->
