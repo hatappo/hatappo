@@ -1,7 +1,7 @@
 name: Metrics
 on:
   schedule:
-    - cron: '0 19 * * *'  # JST 4:00 に相当（UTC 19:00）
+    - cron: '0 19 * * 0-4'  # JST 平日 4:00 に相当（UTC 日〜木 19:00）
   push: {branches: ["master", "main"]}
   workflow_dispatch:
 jobs:
