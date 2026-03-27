@@ -20,7 +20,7 @@
 </p>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hatappo&theme=tokyonight&repo=moody)](https://moody.odoru.dev/)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hatappo&theme=tokyonight&repo=zsh-clj-shell)](https://github.com/skill-mill/agent-skill-porter)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hatappo&theme=tokyonight&repo=zsh-clj-shell)](https://github.com/hatappo/zsh-clj-shell)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skill-mill&theme=tokyonight&repo=agent-skill-porter)](https://github.com/skill-mill/agent-skill-porter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skill-mill&theme=tokyonight&repo=agent-skill-harbor)](https://github.com/skill-mill/agent-skill-harbor)
