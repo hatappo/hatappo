@@ -19,17 +19,18 @@
   </a>
 </p>
 
+<!--
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hatappo&theme=tokyonight&repo=moody)](https://moody.odoru.dev/)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hatappo&theme=tokyonight&repo=zsh-clj-shell)](https://github.com/hatappo/zsh-clj-shell)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skill-mill&theme=tokyonight&repo=agent-skill-porter)](https://github.com/skill-mill/agent-skill-porter)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=skill-mill&theme=tokyonight&repo=agent-skill-harbor)](https://github.com/skill-mill/agent-skill-harbor)
+-->
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatappo&theme=tokyonight&layout=compact&langs_count=8)](https://github.com/hatappo/)
 [![hatappo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hatappo&theme=tokyonight&count_private=true&custom_title=hatappo%27s%20GitHub%20Stats)](https://github.com/hatappo/)
 -->
-
 
 <picture>
   <img src="/github-metrics.svg" alt="Metrics" width="400">
